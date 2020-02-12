@@ -45,6 +45,7 @@
     }
   },
   "dependencies": {
+    "bilibili-live-ws": "^3.1.0",
     "plugog": "^0.1.2",
     "socket.io": "^2.3.0"
   }
