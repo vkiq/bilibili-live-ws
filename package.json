@@ -1,6 +1,6 @@
 {
   "name": "bilibili-live-ws",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "bilibili-live-ws for VkiQ plugin.",
   "author": "Il Harper",
   "scripts": {
