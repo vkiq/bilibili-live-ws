@@ -6,7 +6,7 @@ To use it, just add the lines below to your VkiQ config file:
 
 ```js
 {
-  plugin: 'bilibili-live-ws',
+  plugin: '@vkiq/bilibili-live-ws',
   channel: 'main'
 }
 ```
